@@ -21,10 +21,10 @@ La faisabilité de ce projet semble correct. Un avis extérieur des professeurs 
 # Technologies utilisées
 Pour l'élaboration de ce projet, les outils de programmation tels que "html" "css" "JavaScript" et "Meteor" nous permettent d'avancer sur ce jeu de carte.
 
-# Fonctionnalité planifiées / implémentées
+# Fonctionnalités planifiées / implémentées
 A ce stade, la base définie, nous permet de penser à la suite. Un logo du jeu disponible sur l'envers des cartes, un système de jeu solitaire ou à plusieurs, si cela est faisable, ainsi que le choix d'un thème d'accueil pour ajouter une touche personnalisée tout en travaillant la mémoire. Avec mon collaborateur, nous actualisons souvent notre situation à l'aide d'un BrainStorming pour trouver de nouvelles idées et d'établir un état des lieux.
 
-# Gestion du projet / Réparititon des tâches
+# Gestion du projet / Répartition des tâches
 A la progression actuelle du projet, nous discutons et avançons ensemble dans les idées et les tâches à effectuer car notre groupe s'est confirmé plus tardivement. Néamoins l'avancement est positif et fructueux car nous avons mis en place un prototype qui dévoile un aperçu basique de la fonctionnalité de ce jeu de Memory des couleurs et continuons de travailler sur son développement.
 
 # Concept UI/UC, Wireframes
