@@ -1,5 +1,5 @@
 # Memory-Game
-Tout âge.
+Accessible à tous les âges.
 # Descriptif du jeu
 Nous avons décidé de créer un "Memory-Game" revisité car il n'y aura pas d'images mais uniquement des couleurs. Une collection de 7 paires de couleurs donnera lieu à un jeu attractif et facile pour forger la mémoire.
 
